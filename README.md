@@ -10,7 +10,7 @@ Previously, I worked at **Accenture** as an Associate Software Engineer, buildin
 
 I enjoy solving challenging engineering problems, understanding how systems work internally, and turning complex requirements into clean, maintainable solutions.
 
-**[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-b39500203/) · [Portfolio](https://abhishek1711mmmut.github.io/portfolio-abhishek/) · [Resume](https://tinyurl.com/AbhishekKrResume)**
+**[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-b39500203/) · [Portfolio](https://abhishek1711mmmut.github.io/portfolio-abhishek/)**
 
 ---
 
